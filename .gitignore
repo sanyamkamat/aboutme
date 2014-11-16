@@ -29,3 +29,8 @@ node_modules
 
 # IDE related files
 .idea
+
+dist
+.tmp
+.sass-cache
+bower_components
