@@ -7,7 +7,7 @@
  * # MainCtrl
  * Controller of the aboutmeApp
  */
-angular.module('aboutmeApp')
+app.module('aboutmeApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
